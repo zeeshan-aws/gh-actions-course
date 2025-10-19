@@ -1,0 +1,10 @@
+name: Written Like This 
+config:
+  runs-on: ubuntu 
+Colors:
+  - name: Red
+    color: red
+  - name: Green
+    color: green
+  - name: Blue
+    color: blue
